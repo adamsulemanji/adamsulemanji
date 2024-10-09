@@ -3,7 +3,7 @@
 My name is Adam Sulemanji, and I'm a current masters of computer science student at [Texas A&M University](https://engineering.tamu.edu/cse/index.html) with a desire to solve problems and hopefully learn something and build some cool stuff. I'm currently working [Amazon](https://www.amazon.com/b?ie=UTF8&node=14770868011)  as a software engineer intern hoping to return full time, where I work on Crosslistings. 
 
 ### What I'm working on 👨‍💻
-- 📚📚 [Course Monitoring](): a website that allows students to create and monitor courses for registration. 
+- 📚📚 [Course Monitoring](https://github.com/adamsulemanji/CourseMonitoring): a website that allows students to create and monitor courses for registration. 
 - 🤖🤖 [Alexa Stock ]()An Alexa based application to help my monitor my stocks. 
 - 🎉🎉 [BirthdayParty](): A tool to help me remember important dates and birthdays.
 - ⚙️⚙️ [Test AWS App](https://github.com/adamsulemanji/test-aws-cdk-app): Learning how to properly use AWS features and build a template-able repository
