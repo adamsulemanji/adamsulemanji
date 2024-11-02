@@ -21,6 +21,16 @@ Other Social Mediass:
 - 🏃💨  [Strava](https://www.strava.com/athletes/109469044)
 - 🍿🎥👨  [Letterboxd](https://letterboxd.com/adamsulemanji/)
 
+
+Github Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=adamsulemanji&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsulemanji&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=adamsulemanji)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamsulemanji/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adamsulemanji@tamu.edu)](mailto:adamsulemanji@tamu.edu)
