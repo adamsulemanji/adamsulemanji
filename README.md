@@ -8,6 +8,7 @@ My name is Adam Sulemanji, and I'm a current masters of computer science student
 - 🎉🎉 [BirthdayParty](): A tool to help me remember important dates and birthdays.
 - ⚙️⚙️ [Test AWS App](https://github.com/adamsulemanji/test-aws-cdk-app): Learning how to properly use AWS features and build a template-able repository
 - 👨👨 [Personal Website](https:://github.com/adamsulemanji/PersonalWebisite): My personal work in progress website
+- 🥗🍟 [Meal Tracker](https:://github.com/adamsulemanji/mealtracker): A simple web app for tracking meals and keeping accountability
 
 
 ### What I'm listening to 🎧
