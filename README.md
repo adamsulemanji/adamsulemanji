@@ -62,7 +62,7 @@ I'm **Adam Sulemanji**, a Master's student in Computer Science at [Texas A&M Uni
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsulemanji&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Leetcode Stats:
-![](https://leetcard.jacoblin.cool/adamsulemanji?ext=heatmap)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=adamsulemanji)](https://github.com/KnlnKS/leetcode-stats)
 
 <br/>
 
