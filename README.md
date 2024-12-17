@@ -61,8 +61,6 @@ I'm **Adam Sulemanji**, a Master's student in Computer Science at [Texas A&M Uni
 ![](https://github-readme-stats.vercel.app/api?username=adamsulemanji&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsulemanji&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<<<<<<< HEAD
-=======
 Leetcode Stats:
 ![](https://leetcard.jacoblin.cool/adamsulemanji?ext=heatmap)
 
@@ -70,5 +68,4 @@ Leetcode Stats:
 
 
 
->>>>>>> 3af1509 (Adding Leetcode Graph)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=adamsulemanji)
