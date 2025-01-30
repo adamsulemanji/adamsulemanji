@@ -1,6 +1,5 @@
-## Hi! I'm Adam 👋🦒🌮🏌️‍♂️🎾🎺☕️📚😁
-
-I'm **Adam Sulemanji**, a Master's student in Computer Science at [Texas A&M University](https://engineering.tamu.edu/cse/index.html) with a passion for problem-solving and building cool stuff. Currently, I'm a software engineer intern at [Amazon](https://www.amazon.com/b?ie=UTF8&node=14770868011), working on Crosslistings, with hopes of returning full-time.
+## Hi! I'm Adam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi">
+I'm **Adam Sulemanji**, recent grad Master's student in Computer Science at [Texas A&M University](https://engineering.tamu.edu/cse/index.html) with a passion for problem-solving and building cool stuff. Currently, I'm a software engineer at [Amazon](https://www.amazon.com/b?ie=UTF8&node=14770868011), working on Crosslistings.
 
 ---
 
